@@ -22,3 +22,12 @@
 <b>python is a interpreted, Functional, object oriented high level programming language.
 It is eassy to learn because of its simple-syntax, And develop applications quickly because of its Fast-Inbuilt Libraries.
 <b></br>
+ <br>
+ <b>why use python??</b><br>
+     1. Eassy to learn/use<br>
+     2. Perfomance<br>
+     3. Rapid Development<br>
+     4. Dynamically Types<br>
+     5. Community<br>
+     6. Third Party Libraries<br> 
+  
