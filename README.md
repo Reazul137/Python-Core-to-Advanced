@@ -30,4 +30,4 @@ It is eassy to learn because of its simple-syntax, And develop applications quic
      4. Dynamically Types<br>
      5. Community<br>
      6. Third Party Libraries<br> 
-  
+  <h1>Software Setup and First Python Script<h1>
