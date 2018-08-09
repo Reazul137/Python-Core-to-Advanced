@@ -17,3 +17,8 @@
 <b>15. Files</b><br>
 <b>16. Regular Expressions</b><br>
 <b>17. Multi Threading</b><br>
+<br><br>
+<b>What is Python?</b><br>
+<b>python is a interpreted, Functional, object oriented high level programming language.
+It is eassy to learn because of its simple-syntax, And develop applications quickly because of its Fast-Inbuilt Libraries.
+<b></br>
