@@ -1,0 +1,1 @@
+Python also provides some built-in data types, in particular, dict , list , set and frozenset , and tuple . The str class is used to hold Unicode strings, and the bytes class is used to hold binary data.
