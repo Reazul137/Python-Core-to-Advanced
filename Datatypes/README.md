@@ -1,4 +1,4 @@
-<b>What is the defination of datatype??<b><br>
+<b>What is the defination of datatype??</b><br>
 Data Type. A data type is a type of data...<br> 
 Some common data types include integers, floating point numbers, characters, strings, and arrays.<br>
 They may also be more specific types, such as dates, timestamps, boolean values, and varchar (variable character) formats.<br>
