@@ -7,10 +7,10 @@ Python also provides some built-in data types, in particular, dict , list , set 
 <b>What are the foure data types on Python??</b><br>
 There are eight kinds of types supported by PyTables:<br>
 bool: Boolean (true/false) types. Supported precisions: 8 (default) bits.<br>
-int: Signed integer types. ...<br>
-uint: Unsigned integer types. ...<br>
-float: Floating point types. ...<br>
-complex: Complex number types. ...<br>
-string: Raw string types. ...<br>
-time: Data/time types. ...<br>
+int: Signed integer types.<br>
+uint: Unsigned integer types.<br>
+float: Floating point types.<br>
+complex: Complex number types.<br>
+string: Raw string types.<br>
+time: Data/time types.<br>
 enum: Enumerated types.<br>
