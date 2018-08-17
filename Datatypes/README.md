@@ -4,6 +4,13 @@ Some common data types include integers, floating point numbers, characters, str
 They may also be more specific types, such as dates, timestamps, boolean values, and varchar (variable character) formats.<br>
 Python also provides some built-in data types, in particular, dict , list , set and frozenset , and tuple . The str class is used to hold Unicode strings, and the bytes class is used to hold binary data.<br>
 
+<b>There are five data types,</b><br>
+1. None type, an object that does not contain any value..<br>
+2. Numeric types int, float, complex..<br>
+3. Sequences str, bytes, bytearray, list, tuple, range..<br>
+4. Sets..<br>
+5. Mapping..<br>
+
 <b>What are the foure data types on Python??</b><br>
 There are eight kinds of types supported by PyTables:<br>
 bool: Boolean (true/false) types. Supported precisions: 8 (default) bits.<br>
