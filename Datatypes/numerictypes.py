@@ -16,3 +16,8 @@ print(type(d))
 
 e=0B1010
 print(e)
+print(type(e))
+
+f=0XFF
+print(f)
+print(type(f))
